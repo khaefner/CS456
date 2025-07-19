@@ -1,0 +1,6 @@
+[submodule "buffer_overflow"]
+	path = buffer_overflow
+	url = git@github.com:khaefner/buffer_overflow.git
+[submodule "symmetric_crypto"]
+	path = symmetric_crypto
+	url = git@github.com:khaefner/symmetric_crypto.git
